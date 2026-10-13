@@ -14,7 +14,7 @@ def notify(title, message):
 
 tasks = []
 
-print("Time Planner (24-hour format HH:MM)")
+print("Time Planner (24 hour format HH:MM)")
 print("Add tasks. Type 'done' when finished.\n")
 
 while True:
